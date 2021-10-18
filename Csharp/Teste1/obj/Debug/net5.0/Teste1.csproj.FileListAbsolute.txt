@@ -1,0 +1,16 @@
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\bin\Debug\net5.0\Teste1.exe
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\bin\Debug\net5.0\Teste1.deps.json
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\bin\Debug\net5.0\Teste1.runtimeconfig.json
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\bin\Debug\net5.0\Teste1.runtimeconfig.dev.json
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\bin\Debug\net5.0\Teste1.dll
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\bin\Debug\net5.0\ref\Teste1.dll
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\bin\Debug\net5.0\Teste1.pdb
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\obj\Debug\net5.0\Teste1.csproj.AssemblyReference.cache
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\obj\Debug\net5.0\Teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\obj\Debug\net5.0\Teste1.AssemblyInfoInputs.cache
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\obj\Debug\net5.0\Teste1.AssemblyInfo.cs
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\obj\Debug\net5.0\Teste1.csproj.CoreCompileInputs.cache
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\obj\Debug\net5.0\Teste1.dll
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\obj\Debug\net5.0\ref\Teste1.dll
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\obj\Debug\net5.0\Teste1.pdb
+C:\workspace\Projetos\Teste_LocX\Csharp\Teste1\obj\Debug\net5.0\Teste1.genruntimeconfig.cache
