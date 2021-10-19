@@ -53,10 +53,10 @@ namespace Teste2
             }
 
             //Calculo do desconto do imposto de renda
-            float dIR = aluguelTotal * (aliq);
+            float IRcDed = valPorProp * (aliq) - ded;
 
             //Valor recebido por proprietário
-            float valProp = (aluguelTotal - dTxAdmin - dIR + ded) / qtdProp;
+            float valProp = (valPorProp - (dTxAdmin/qtdProp) - IRcDed);
 
             //Escrevendo o valor de saída no formato solicitado
             string ret = "";
